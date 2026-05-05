@@ -47,6 +47,7 @@ reduction of avoidable losses
 SQL (data analysis, feature engineering, aggregation)
 Data visualization (Python / Matplotlib)
 Risk modeling logic
+
 📌 Conclusion
 
 The project demonstrates how data-driven risk assessment can significantly improve lending decisions by identifying hidden risk patterns and reducing exposure to high-risk borrowers.
